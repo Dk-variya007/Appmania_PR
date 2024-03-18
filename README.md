@@ -27,4 +27,6 @@
 
 <img src = "https://github.com/parth7192/Appmania_PR/assets/142138451/7934007e-695c-43dc-b0fd-88ec48d92f7e" width = "200">
 
-<img src = "https://github.com/parth7192/Appmania_PR/assets/142138451/4c252419-4733-4778-af8c-e4e2c5d99aa9" width = "200">
+<img src = "https://github.com/parth7192/Appmania_PR/assets/142138451/58d9f0de-b339-4094-9661-49fe65fd01d1" width = "200">
+
+<img src = "https://github.com/parth7192/Appmania_PR/assets/142138451/7eeb2eea-1a8f-41b8-85cd-5e475733cc2f" width = "200">
