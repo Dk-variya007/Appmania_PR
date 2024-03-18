@@ -1,16 +1,16 @@
-# 🐕‍🦺: Pet App
+# 🐕‍🦺 Pet App
 - Pet App revolutionizes pet care with its innovative CarouselSlider feature, making it easier than ever to manage and connect with your beloved pets. This dynamic app combines convenience, engagement, and comprehensive pet care tools to enhance the bond between you and your furry friends.
 
-# :📱: CarouselSlider Interface 
+# 📱 CarouselSlider Interface 
 - Experience seamless navigation through a visually stunning carousel interface. Swipe through different sections of the app effortlessly, including pet profiles, health tracking, grooming scheduler, and more.
 
-# :👉: Profile Creation
+# 👉 Profile Creation
 - Create personalized profiles for each of your pets with ease. Upload adorable photos, specify breed, age, weight, and any special needs or preferences.
 
-# :👉: Health Tracking
+# 👉 Health Tracking
 - Monitor your pet's health records in real-time. Keep track of vaccinations, medications, allergies, and vet appointments conveniently within the CarouselSlider interface.
 
-# :👉: Social Community
+# 👉 Social Community
 - Connect with fellow pet lovers through the CarouselSlider community. Swipe through pet photos, share stories, and participate in discussions on various pet-related topics.
   
 # :dart: Technology Stack :high_brightness:
